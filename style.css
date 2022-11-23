@@ -19,8 +19,7 @@ footer {
     top: 50%;
     transform: translateY(-50%);
     bottom: initial;
-    color: rgb(18, 70, 25);
-
+    color: white;
 }
 
 footer {
@@ -37,10 +36,9 @@ footer img {
     height: 50px;
 }
 
-.carousel-caption {}
-
 @media only screen and (max-width:600px) {
     footer {
         gap: 1rem;
     }
+
 }
